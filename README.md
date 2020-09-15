@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check my [website](nhqml.github.io) for more info 😉
+Check my [website](https://nhqml.github.io) for more info 😉
